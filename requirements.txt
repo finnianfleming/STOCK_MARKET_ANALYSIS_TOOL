@@ -1,0 +1,9 @@
+yfinance
+pandas
+dash
+torch
+scikit-learn
+plotly
+numpy
+rich
+openpyxl
